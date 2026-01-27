@@ -1,0 +1,25 @@
+.nav{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  display: flex;
+  list-style: none;
+  text-indent: 15px;
+
+}
+h1{
+    font-size: 50px;
+}
+ul li {
+    font-size: 25px;
+}
+.info_grid{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 400px 400px 100px
+
+}
+.info1 , .info2,  .info3{
+    background-color: rgb(206, 206, 206);
+}
