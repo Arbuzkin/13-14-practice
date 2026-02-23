@@ -1,0 +1,42 @@
+
+.page-title {
+    color: #2a5298;
+    font-size: 32px;
+    text-align: center;
+}
+
+.contacts-section {
+    margin-bottom: 40px;
+}
+
+.contacts-section h3 {
+    color: #2a5298;
+    font-size: 24px;
+}
+
+.contacts-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.contact-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+}
+
+.contact-photo img {
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+}
+
+
+.contact-details h4 {
+    color: #2a5298;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
